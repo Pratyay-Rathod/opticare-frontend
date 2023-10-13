@@ -1,0 +1,18 @@
+.custom-datepicker {
+  height: 15px;
+  outline: none;
+  border: none;
+  border: 0.1px solid #1260cc;
+  width: 300px;
+  padding: 12px 20px;
+  border-radius: 10px;
+  margin: 18px 5px;
+}
+
+.custom-datepicker .react-datepicker-wrapper {
+  width: 100%;
+}
+
+.custom-datepicker .react-datepicker__input-container input {
+  width: 100%;
+}

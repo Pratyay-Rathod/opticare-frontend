@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#Header{
+    font-size:20px;
+    display:block;
+    display:flex;
+    justify-content:space-around;
+    border-bottom: 1px solid  #555;
+    padding: 10px;
+  }
+
+table{
+    text-align: center;
+    margin:3rem 0rem;
+}
+td,th{
+    border: 1px solid rgb(252, 13, 53);
+    padding: 8px;
+    input{
+        width:40px;
+    }
+}
